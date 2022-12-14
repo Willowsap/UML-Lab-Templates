@@ -1,0 +1,1 @@
+You should place 3 UML diagrams in this folder: a class diagram, a sequence diagram, and a use case diagram. You can use png, jpeg, jpg, or gif files.
