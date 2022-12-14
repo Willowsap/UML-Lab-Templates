@@ -1,4 +1,4 @@
-###Time to practice some UML diagrams!
+## Time to practice some UML diagrams!
 
 There are systems all around us, so let's model one that we should all be familiar with: a 4-way traffic light intersection. We know that the purpose of the system is to get people through the intersection without collision and as efficiently as possible. 
 
